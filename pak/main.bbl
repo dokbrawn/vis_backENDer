@@ -1,0 +1,364 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{ashpashev2026visual}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d353f32d172932a959232b1dd753f217}{%
+           family={Ахпашев},
+           familyi={А\bibinitperiod},
+           given={Р.В.},
+           giveni={Р\bibinitperiod}}}%
+      }
+      \strng{namehash}{d353f32d172932a959232b1dd753f217}
+      \strng{fullhash}{d353f32d172932a959232b1dd753f217}
+      \strng{fullhashraw}{d353f32d172932a959232b1dd753f217}
+      \strng{bibnamehash}{d353f32d172932a959232b1dd753f217}
+      \strng{authorbibnamehash}{d353f32d172932a959232b1dd753f217}
+      \strng{authornamehash}{d353f32d172932a959232b1dd753f217}
+      \strng{authorfullhash}{d353f32d172932a959232b1dd753f217}
+      \strng{authorfullhashraw}{d353f32d172932a959232b1dd753f217}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 13.05.2026}
+      \field{title}{Визуальное программирование: методические указания к лабораторным работам}
+      \field{year}{2026}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://telecomdep.github.io/notes/HomeWork/home_work.html
+      \endverb
+      \verb{url}
+      \verb https://telecomdep.github.io/notes/HomeWork/home_work.html
+      \endverb
+    \endentry
+    \entry{android_location}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7ace771b22ac28958ff5694e260839cc}{%
+           family={{Android Developers}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{fullhash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{fullhashraw}{7ace771b22ac28958ff5694e260839cc}
+      \strng{bibnamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorbibnamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authornamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorfullhash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorfullhashraw}{7ace771b22ac28958ff5694e260839cc}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{Location API}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://developer.android.com/reference/android/location/Location
+      \endverb
+      \verb{url}
+      \verb https://developer.android.com/reference/android/location/Location
+      \endverb
+    \endentry
+    \entry{android_telephony}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7ace771b22ac28958ff5694e260839cc}{%
+           family={{Android Developers}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{fullhash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{fullhashraw}{7ace771b22ac28958ff5694e260839cc}
+      \strng{bibnamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorbibnamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authornamehash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorfullhash}{7ace771b22ac28958ff5694e260839cc}
+      \strng{authorfullhashraw}{7ace771b22ac28958ff5694e260839cc}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{TelephonyManager}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://developer.android.com/reference/android/telephony/TelephonyManager
+      \endverb
+      \verb{url}
+      \verb https://developer.android.com/reference/android/telephony/TelephonyManager
+      \endverb
+    \endentry
+    \entry{zeromq_guide}{online}{}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{ZeroMQ Guide}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://zguide.zeromq.org
+      \endverb
+      \verb{url}
+      \verb https://zguide.zeromq.org
+      \endverb
+    \endentry
+    \entry{dear_imgui}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=98d344edf3e87a646a483913bb39dcef}{%
+           family={Corno},
+           familyi={C\bibinitperiod},
+           given={Omar},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{98d344edf3e87a646a483913bb39dcef}
+      \strng{fullhash}{98d344edf3e87a646a483913bb39dcef}
+      \strng{fullhashraw}{98d344edf3e87a646a483913bb39dcef}
+      \strng{bibnamehash}{98d344edf3e87a646a483913bb39dcef}
+      \strng{authorbibnamehash}{98d344edf3e87a646a483913bb39dcef}
+      \strng{authornamehash}{98d344edf3e87a646a483913bb39dcef}
+      \strng{authorfullhash}{98d344edf3e87a646a483913bb39dcef}
+      \strng{authorfullhashraw}{98d344edf3e87a646a483913bb39dcef}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{Dear ImGui GitHub Repository}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/ocornut/imgui
+      \endverb
+      \verb{url}
+      \verb https://github.com/ocornut/imgui
+      \endverb
+    \endentry
+    \entry{osm_tiles}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=53c7c10a2ceda6a02e09471af22d4d8a}{%
+           family={{OpenStreetMap Wiki}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{fullhash}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{fullhashraw}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{bibnamehash}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{authorbibnamehash}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{authornamehash}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{authorfullhash}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \strng{authorfullhashraw}{53c7c10a2ceda6a02e09471af22d4d8a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{Slippy map tilenames}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames
+      \endverb
+      \verb{url}
+      \verb https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames
+      \endverb
+    \endentry
+    \entry{postgresql_libpq}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f7344eaf81e071847f1a5d0510f57b1d}{%
+           family={{PostgreSQL Documentation}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{fullhash}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{fullhashraw}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{bibnamehash}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{authorbibnamehash}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{authornamehash}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{authorfullhash}{f7344eaf81e071847f1a5d0510f57b1d}
+      \strng{authorfullhashraw}{f7344eaf81e071847f1a5d0510f57b1d}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{libpq -- C Library}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.postgresql.org/docs/current/libpq.html
+      \endverb
+      \verb{url}
+      \verb https://www.postgresql.org/docs/current/libpq.html
+      \endverb
+    \endentry
+    \entry{nlohmann_json}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ba8ee0d160dc4cb903df41865f42973d}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Niels\bibnamedelima Lohmann},
+           giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{fullhash}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{fullhashraw}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{bibnamehash}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{authorbibnamehash}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{authornamehash}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{authorfullhash}{ba8ee0d160dc4cb903df41865f42973d}
+      \strng{authorfullhashraw}{ba8ee0d160dc4cb903df41865f42973d}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{JSON for Modern C++}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/nlohmann/json
+      \endverb
+      \verb{url}
+      \verb https://github.com/nlohmann/json
+      \endverb
+    \endentry
+    \entry{stb_image}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ac2d8248c83ef7ac6ce8983b7a961df6}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{fullhash}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{fullhashraw}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{bibnamehash}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{authorbibnamehash}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{authornamehash}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{authorfullhash}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \strng{authorfullhashraw}{ac2d8248c83ef7ac6ce8983b7a961df6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{stb\_image.h -- single-file image loader}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/nothings/stb
+      \endverb
+      \verb{url}
+      \verb https://github.com/nothings/stb
+      \endverb
+    \endentry
+    \entry{implot}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=44624f59a5eb97112ea8796283b745f0}{%
+           family={Peine},
+           familyi={P\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{44624f59a5eb97112ea8796283b745f0}
+      \strng{fullhash}{44624f59a5eb97112ea8796283b745f0}
+      \strng{fullhashraw}{44624f59a5eb97112ea8796283b745f0}
+      \strng{bibnamehash}{44624f59a5eb97112ea8796283b745f0}
+      \strng{authorbibnamehash}{44624f59a5eb97112ea8796283b745f0}
+      \strng{authornamehash}{44624f59a5eb97112ea8796283b745f0}
+      \strng{authorfullhash}{44624f59a5eb97112ea8796283b745f0}
+      \strng{authorfullhashraw}{44624f59a5eb97112ea8796283b745f0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{ImPlot GitHub Repository}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/epezent/implot
+      \endverb
+      \verb{url}
+      \verb https://github.com/epezent/implot
+      \endverb
+    \endentry
+    \entry{curl}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d655071515167bb881acaa4715682d1c}{%
+           family={Stenberg},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{d655071515167bb881acaa4715682d1c}
+      \strng{fullhash}{d655071515167bb881acaa4715682d1c}
+      \strng{fullhashraw}{d655071515167bb881acaa4715682d1c}
+      \strng{bibnamehash}{d655071515167bb881acaa4715682d1c}
+      \strng{authorbibnamehash}{d655071515167bb881acaa4715682d1c}
+      \strng{authornamehash}{d655071515167bb881acaa4715682d1c}
+      \strng{authorfullhash}{d655071515167bb881acaa4715682d1c}
+      \strng{authorfullhashraw}{d655071515167bb881acaa4715682d1c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{cURL -- command line tool and library}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://curl.se
+      \endverb
+      \verb{url}
+      \verb https://curl.se
+      \endverb
+    \endentry
+    \entry{sdl2}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=161410ccb2f0d363bf875d4002467518}{%
+           family={Lantinga},
+           familyi={L\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{161410ccb2f0d363bf875d4002467518}
+      \strng{fullhash}{161410ccb2f0d363bf875d4002467518}
+      \strng{fullhashraw}{161410ccb2f0d363bf875d4002467518}
+      \strng{bibnamehash}{161410ccb2f0d363bf875d4002467518}
+      \strng{authorbibnamehash}{161410ccb2f0d363bf875d4002467518}
+      \strng{authornamehash}{161410ccb2f0d363bf875d4002467518}
+      \strng{authorfullhash}{161410ccb2f0d363bf875d4002467518}
+      \strng{authorfullhashraw}{161410ccb2f0d363bf875d4002467518}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{дата обращения: 20.05.2026}
+      \field{title}{Simple DirectMedia Layer 2}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.libsdl.org
+      \endverb
+      \verb{url}
+      \verb https://www.libsdl.org
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
